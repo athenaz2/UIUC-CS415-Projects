@@ -2357,3 +2357,514 @@ Script Stack (0 frames):
 [2022.09.20-22.00.17:272][690]LogSavePackage: Moving 'U:/Documents/Unreal Projects/InfiniteMatrixStarter/Saved/BP_PlayerAD39EE3948529BC48012D9A48D82906A.tmp' to 'U:/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset'
 [2022.09.20-22.00.17:334][690]AssetCheck: New page: Asset Save: BP_Player
 [2022.09.20-22.00.17:334][690]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2022.09.20-22.06.13:500][ 48]LogEditorViewport: Clicking Background
+[2022.09.20-22.06.14:096][108]MapCheck: New page: Map Check
+[2022.09.20-22.06.14:111][108]Cmd: MAP REBUILD ALLVISIBLE
+[2022.09.20-22.06.14:111][108]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2022.09.20-22.06.14:112][108]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=false
+[2022.09.20-22.06.14:118][108]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2022.09.20-22.06.14:118][108]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2022.09.20-22.06.14:118][108]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2022.09.20-22.06.14:170][108]LogUObjectHash: Compacting FUObjectHashTables data took   5.22ms
+[2022.09.20-22.06.14:172][108]LightingResults: New page: Lighting Build - Sep 20, 2022, 12:06:14 PM
+[2022.09.20-22.06.14:173][108]LogStaticLightingSystem: Warning: WorldSettings.bForceNoPrecomputedLighting is true, Skipping Lighting Build!
+[2022.09.20-22.06.14:232][108]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2022.09.20-22.06.14:232][108]MapCheck: New page: TutorialMap - Sep 20, 2022, 12:06:14 PM
+[2022.09.20-22.06.14:235][108]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.527ms to complete.
+[2022.09.20-22.06.14:237][108]LogEditorBuildUtils: Build time 0:00
+[2022.09.20-22.06.15:202][167]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.09.20-22.06.15:508][167]LogSavePackage: Moving 'U:/Documents/Unreal Projects/InfiniteMatrixStarter/Saved/TutorialMap8EACC89448E44525D93D99B031DFE023.tmp' to 'U:/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap'
+[2022.09.20-22.06.15:587][167]AssetCheck: New page: Asset Save: multiple assets
+[2022.09.20-22.06.15:587][167]LogContentValidation: Display: Validating World /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap
+[2022.09.20-22.06.15:587][167]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap_BuiltData
+[2022.09.20-22.08.23:673][724]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{1290cee5-7747-4de1-a8a0-45673efb2f3b}.
+[2022.09.20-22.08.23:673][724]LogAudioMixer: Resetting audio stream to device id 
+[2022.09.20-22.08.23:685][724]LogAudioMixer: Display: 0: FrontLeft
+[2022.09.20-22.08.23:685][724]LogAudioMixer: Display: 1: FrontRight
+[2022.09.20-22.08.26:690][733]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{19bae18b-8925-4ba3-a28c-b8f851e44fad}.
+[2022.09.20-22.08.26:690][733]LogAudioMixer: Resetting audio stream to device id 
+[2022.09.20-22.08.26:703][733]LogAudioMixer: Display: 0: FrontLeft
+[2022.09.20-22.08.26:703][733]LogAudioMixer: Display: 1: FrontRight
+[2022.09.20-22.12.56:619][767]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.09.20-22.12.56:638][767]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.20-22.12.56:638][767]PIE: New page: PIE session: TutorialMap (Sep 20, 2022, 12:12:56 PM)
+[2022.09.20-22.12.56:639][767]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.09.20-22.12.56:642][767]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003339s)
+[2022.09.20-22.12.56:643][767]LogAIModule: Creating AISystem for world TutorialMap
+[2022.09.20-22.12.56:647][767]LogPlayLevel: PIE: World Init took: (0.004664s)
+[2022.09.20-22.12.56:647][767]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.008153s)
+[2022.09.20-22.12.56:695][767]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2022.09.20-22.12.56:696][767]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.09.20-22.12.56:696][767]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.20-22.12.56:696][767]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.20-22.12.56:696][767]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.20-22.12.56:696][767]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.20-22.12.56:696][767]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.20-22.12.56:696][767]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.09.20-22.12.56:696][767]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.20-22.12.56:696][767]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.20-22.12.56:696][767]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.20-22.12.56:696][767]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.20-22.12.56:696][767]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.20-22.12.56:696][767]LogAudioMixer: Display: Initializing audio mixer.
+[2022.09.20-22.12.56:708][767]LogAudioMixer: Display: 0: FrontLeft
+[2022.09.20-22.12.56:708][767]LogAudioMixer: Display: 1: FrontRight
+[2022.09.20-22.12.56:726][767]LogAudioMixer: Display: Using Audio Device HP Z24n (NVIDIA High Definition Audio)
+[2022.09.20-22.12.56:727][767]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.20-22.12.56:727][767]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.20-22.12.56:727][767]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.20-22.12.56:727][767]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.09.20-22.12.56:727][767]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.09.20-22.12.56:728][767]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.09.20-22.12.56:729][767]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.09.20-22.12.56:729][767]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.09.20-22.12.56:729][767]LogInit: FAudioDevice initialized.
+[2022.09.20-22.12.56:729][767]LogAudio: Display: Audio Device (ID: 11) registered with world 'TutorialMap'.
+[2022.09.20-22.12.56:772][767]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.20-22.12.56:772][767]LogLoad: Game class is 'GM_Tutorial_C'
+[2022.09.20-22.12.56:774][767]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2022.09.20-17.12.56
+[2022.09.20-22.12.56:774][767]LogWorld: Bringing up level for play took: 0.000759
+[2022.09.20-22.12.56:774][767]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2022.09.20-22.12.56:783][767]PIE: Server logged in
+[2022.09.20-22.12.56:786][767]PIE: Play in editor total start time 0.151 seconds.
+[2022.09.20-22.13.27:007][405]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.20-22.13.27:007][405]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.09.20-22.13.27:009][405]LogSlate: Window 'InfiniteMatrix Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.09.20-22.13.27:018][405]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2022.09.20-22.13.27:019][405]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.20-22.13.27:033][405]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.20-22.13.27:041][405]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.20-22.13.27:081][405]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.20-22.13.27:082][405]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.20-22.13.27:092][405]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2022.09.20-22.13.27:133][406]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2022.09.20-22.13.54:743][244]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.09.20-22.13.54:759][244]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.20-22.13.54:760][244]PIE: New page: PIE session: TutorialMap (Sep 20, 2022, 12:13:54 PM)
+[2022.09.20-22.13.54:760][244]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.09.20-22.13.54:763][244]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003141s)
+[2022.09.20-22.13.54:764][244]LogAIModule: Creating AISystem for world TutorialMap
+[2022.09.20-22.13.54:767][244]LogPlayLevel: PIE: World Init took: (0.004314s)
+[2022.09.20-22.13.54:767][244]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.007600s)
+[2022.09.20-22.13.54:808][244]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2022.09.20-22.13.54:809][244]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2022.09.20-22.13.54:809][244]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.20-22.13.54:809][244]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.20-22.13.54:809][244]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.20-22.13.54:809][244]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.20-22.13.54:809][244]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.20-22.13.54:809][244]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.09.20-22.13.54:810][244]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.20-22.13.54:810][244]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.20-22.13.54:810][244]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.20-22.13.54:810][244]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.20-22.13.54:810][244]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.20-22.13.54:810][244]LogAudioMixer: Display: Initializing audio mixer.
+[2022.09.20-22.13.54:822][244]LogAudioMixer: Display: 0: FrontLeft
+[2022.09.20-22.13.54:822][244]LogAudioMixer: Display: 1: FrontRight
+[2022.09.20-22.13.54:840][244]LogAudioMixer: Display: Using Audio Device HP Z24n (NVIDIA High Definition Audio)
+[2022.09.20-22.13.54:840][244]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.20-22.13.54:840][244]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.20-22.13.54:840][244]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.20-22.13.54:841][244]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.09.20-22.13.54:841][244]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.09.20-22.13.54:841][244]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.09.20-22.13.54:842][244]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.09.20-22.13.54:842][244]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.09.20-22.13.54:842][244]LogInit: FAudioDevice initialized.
+[2022.09.20-22.13.54:842][244]LogAudio: Display: Audio Device (ID: 12) registered with world 'TutorialMap'.
+[2022.09.20-22.13.54:889][244]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.20-22.13.54:889][244]LogLoad: Game class is 'GM_Tutorial_C'
+[2022.09.20-22.13.54:890][244]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2022.09.20-17.13.54
+[2022.09.20-22.13.54:890][244]LogWorld: Bringing up level for play took: 0.000665
+[2022.09.20-22.13.54:891][244]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2022.09.20-22.13.54:900][244]PIE: Server logged in
+[2022.09.20-22.13.54:901][244]PIE: Play in editor total start time 0.146 seconds.
+[2022.09.20-22.14.01:708][837]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.20-22.14.01:708][837]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.09.20-22.14.01:709][837]LogSlate: Window 'InfiniteMatrix Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.09.20-22.14.01:717][837]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2022.09.20-22.14.01:717][837]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.20-22.14.01:727][837]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.20-22.14.01:736][837]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.20-22.14.01:774][837]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.20-22.14.01:775][837]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.20-22.14.01:783][837]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2022.09.20-22.14.01:812][838]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2022.09.20-22.14.12:031][141]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.09.20-22.14.12:050][141]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.20-22.14.12:050][141]PIE: New page: PIE session: TutorialMap (Sep 20, 2022, 12:14:12 PM)
+[2022.09.20-22.14.12:050][141]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.09.20-22.14.12:054][141]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003659s)
+[2022.09.20-22.14.12:055][141]LogAIModule: Creating AISystem for world TutorialMap
+[2022.09.20-22.14.12:058][141]LogPlayLevel: PIE: World Init took: (0.004242s)
+[2022.09.20-22.14.12:058][141]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.008059s)
+[2022.09.20-22.14.12:099][141]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2022.09.20-22.14.12:100][141]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2022.09.20-22.14.12:100][141]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.20-22.14.12:100][141]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.20-22.14.12:100][141]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.20-22.14.12:100][141]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.20-22.14.12:100][141]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.20-22.14.12:100][141]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.09.20-22.14.12:100][141]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.20-22.14.12:100][141]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.20-22.14.12:100][141]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.20-22.14.12:100][141]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.20-22.14.12:100][141]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.20-22.14.12:100][141]LogAudioMixer: Display: Initializing audio mixer.
+[2022.09.20-22.14.12:113][141]LogAudioMixer: Display: 0: FrontLeft
+[2022.09.20-22.14.12:113][141]LogAudioMixer: Display: 1: FrontRight
+[2022.09.20-22.14.12:130][141]LogAudioMixer: Display: Using Audio Device HP Z24n (NVIDIA High Definition Audio)
+[2022.09.20-22.14.12:131][141]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.20-22.14.12:131][141]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.20-22.14.12:131][141]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.20-22.14.12:131][141]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.09.20-22.14.12:131][141]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.09.20-22.14.12:131][141]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.09.20-22.14.12:132][141]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.09.20-22.14.12:133][141]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.09.20-22.14.12:133][141]LogInit: FAudioDevice initialized.
+[2022.09.20-22.14.12:133][141]LogAudio: Display: Audio Device (ID: 13) registered with world 'TutorialMap'.
+[2022.09.20-22.14.12:187][141]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.20-22.14.12:187][141]LogLoad: Game class is 'GM_Tutorial_C'
+[2022.09.20-22.14.12:188][141]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2022.09.20-17.14.12
+[2022.09.20-22.14.12:188][141]LogWorld: Bringing up level for play took: 0.000698
+[2022.09.20-22.14.12:189][141]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2022.09.20-22.14.12:198][141]PIE: Server logged in
+[2022.09.20-22.14.12:200][141]PIE: Play in editor total start time 0.155 seconds.
+[2022.09.20-22.14.44:876][ 55]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.09.20-22.14.44:876][ 55]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.09.20-22.14.47:581][300]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.09.20-22.14.47:581][300]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.09.20-22.15.13:671][594]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.09.20-22.15.13:671][594]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.09.20-22.15.14:249][646]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.09.20-22.17.12:660][262]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.20-22.17.12:660][262]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.09.20-22.17.12:660][262]LogSlate: Window 'InfiniteMatrix Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.09.20-22.17.12:666][262]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2022.09.20-22.17.12:666][262]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.20-22.17.12:677][262]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.20-22.17.12:684][262]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.20-22.17.12:723][262]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.20-22.17.12:725][262]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.20-22.17.12:733][262]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2022.09.20-22.17.12:842][263]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2022.09.20-22.17.14:431][413]LogSlate: Window 'Message Log' being destroyed
+[2022.09.20-22.17.14:441][413]LogSlate: Window 'Message Log' being destroyed
+[2022.09.20-22.17.15:690][527]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.09.20-22.17.15:707][527]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.20-22.17.15:707][527]PIE: New page: PIE session: TutorialMap (Sep 20, 2022, 12:17:15 PM)
+[2022.09.20-22.17.15:707][527]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.09.20-22.17.15:710][527]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003051s)
+[2022.09.20-22.17.15:711][527]LogAIModule: Creating AISystem for world TutorialMap
+[2022.09.20-22.17.15:714][527]LogPlayLevel: PIE: World Init took: (0.003720s)
+[2022.09.20-22.17.15:714][527]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.006893s)
+[2022.09.20-22.17.15:754][527]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2022.09.20-22.17.15:755][527]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2022.09.20-22.17.15:756][527]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.20-22.17.15:756][527]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.20-22.17.15:756][527]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.20-22.17.15:756][527]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.20-22.17.15:756][527]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.20-22.17.15:756][527]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.09.20-22.17.15:756][527]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.20-22.17.15:756][527]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.20-22.17.15:756][527]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.20-22.17.15:756][527]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.20-22.17.15:756][527]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.20-22.17.15:756][527]LogAudioMixer: Display: Initializing audio mixer.
+[2022.09.20-22.17.15:767][527]LogAudioMixer: Display: 0: FrontLeft
+[2022.09.20-22.17.15:767][527]LogAudioMixer: Display: 1: FrontRight
+[2022.09.20-22.17.15:784][527]LogAudioMixer: Display: Using Audio Device HP Z24n (NVIDIA High Definition Audio)
+[2022.09.20-22.17.15:784][527]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.20-22.17.15:784][527]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.20-22.17.15:784][527]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.20-22.17.15:785][527]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.09.20-22.17.15:785][527]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.09.20-22.17.15:785][527]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.09.20-22.17.15:786][527]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.09.20-22.17.15:786][527]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.09.20-22.17.15:786][527]LogInit: FAudioDevice initialized.
+[2022.09.20-22.17.15:786][527]LogAudio: Display: Audio Device (ID: 14) registered with world 'TutorialMap'.
+[2022.09.20-22.17.15:839][527]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.20-22.17.15:839][527]LogLoad: Game class is 'GM_Tutorial_C'
+[2022.09.20-22.17.15:841][527]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2022.09.20-17.17.15
+[2022.09.20-22.17.15:841][527]LogWorld: Bringing up level for play took: 0.000716
+[2022.09.20-22.17.15:841][527]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2022.09.20-22.17.15:850][527]PIE: Server logged in
+[2022.09.20-22.17.15:853][527]PIE: Play in editor total start time 0.151 seconds.
+[2022.09.20-22.17.29:322][682]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.20-22.17.29:322][682]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.09.20-22.17.29:324][682]LogSlate: Window 'InfiniteMatrix Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.09.20-22.17.29:332][682]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2022.09.20-22.17.29:333][682]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.20-22.17.29:343][682]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.20-22.17.29:352][682]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.20-22.17.29:392][682]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.20-22.17.29:393][682]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.20-22.17.29:406][682]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2022.09.20-22.17.29:438][683]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2022.09.20-22.18.27:857][ 79]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.09.20-22.18.27:874][ 79]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.20-22.18.27:874][ 79]PIE: New page: PIE session: TutorialMap (Sep 20, 2022, 12:18:27 PM)
+[2022.09.20-22.18.27:874][ 79]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.09.20-22.18.27:877][ 79]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003356s)
+[2022.09.20-22.18.27:878][ 79]LogAIModule: Creating AISystem for world TutorialMap
+[2022.09.20-22.18.27:882][ 79]LogPlayLevel: PIE: World Init took: (0.004798s)
+[2022.09.20-22.18.27:882][ 79]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.008320s)
+[2022.09.20-22.18.27:927][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2022.09.20-22.18.27:928][ 79]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2022.09.20-22.18.27:928][ 79]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.20-22.18.27:928][ 79]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.20-22.18.27:928][ 79]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.20-22.18.27:928][ 79]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.20-22.18.27:928][ 79]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.20-22.18.27:928][ 79]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.09.20-22.18.27:928][ 79]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.20-22.18.27:928][ 79]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.20-22.18.27:929][ 79]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.20-22.18.27:929][ 79]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.20-22.18.27:929][ 79]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.20-22.18.27:929][ 79]LogAudioMixer: Display: Initializing audio mixer.
+[2022.09.20-22.18.27:940][ 79]LogAudioMixer: Display: 0: FrontLeft
+[2022.09.20-22.18.27:940][ 79]LogAudioMixer: Display: 1: FrontRight
+[2022.09.20-22.18.27:958][ 79]LogAudioMixer: Display: Using Audio Device HP Z24n (NVIDIA High Definition Audio)
+[2022.09.20-22.18.27:958][ 79]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.20-22.18.27:958][ 79]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.20-22.18.27:958][ 79]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.20-22.18.27:959][ 79]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.09.20-22.18.27:959][ 79]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.09.20-22.18.27:959][ 79]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.09.20-22.18.27:960][ 79]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.09.20-22.18.27:960][ 79]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.09.20-22.18.27:960][ 79]LogInit: FAudioDevice initialized.
+[2022.09.20-22.18.27:960][ 79]LogAudio: Display: Audio Device (ID: 15) registered with world 'TutorialMap'.
+[2022.09.20-22.18.28:019][ 79]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.20-22.18.28:019][ 79]LogLoad: Game class is 'GM_Tutorial_C'
+[2022.09.20-22.18.28:020][ 79]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2022.09.20-17.18.28
+[2022.09.20-22.18.28:021][ 79]LogWorld: Bringing up level for play took: 0.000625
+[2022.09.20-22.18.28:021][ 79]LogOnline: OSS: Creating online subsystem instance for: :Context_39
+[2022.09.20-22.18.28:030][ 79]PIE: Server logged in
+[2022.09.20-22.18.28:032][ 79]PIE: Play in editor total start time 0.162 seconds.
+[2022.09.20-22.18.39:530][ 60]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.20-22.18.39:530][ 60]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.09.20-22.18.39:532][ 60]LogSlate: Window 'InfiniteMatrix Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.09.20-22.18.39:543][ 60]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2022.09.20-22.18.39:543][ 60]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.20-22.18.39:550][ 60]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.20-22.18.39:557][ 60]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.20-22.18.39:599][ 60]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.20-22.18.39:599][ 60]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.20-22.18.39:600][ 60]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.20-22.18.39:608][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2022.09.20-22.18.39:648][ 61]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2022.09.20-22.20.18:263][677]LogSlate: Window 'BP_Player' being destroyed
+[2022.09.20-22.20.18:268][677]LogSlate: Window 'BP_Player' being destroyed
+[2022.09.20-22.20.18:299][677]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2022.09.20-22.20.18:299][677]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.20-22.20.18:331][677]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2022.09.20-22.20.18:331][677]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.20-22.20.18:349][677]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.09.20-22.20.18:349][677]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.20-22.20.18:422][677]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2022.09.20-22.20.18:423][677]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.20-22.20.18:442][677]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2022.09.20-22.20.18:442][677]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.20-22.20.18:523][677]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2022.09.20-22.20.18:523][677]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.20-22.20.18:602][677]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.09.20-22.20.18:602][677]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2022.09.20-22.20.18:602][677]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.20-22.20.56:718][829]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.09.20-22.20.56:741][829]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.20-22.20.56:741][829]PIE: New page: PIE session: TutorialMap (Sep 20, 2022, 12:20:56 PM)
+[2022.09.20-22.20.56:741][829]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.09.20-22.20.56:744][829]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003198s)
+[2022.09.20-22.20.56:745][829]LogAIModule: Creating AISystem for world TutorialMap
+[2022.09.20-22.20.56:749][829]LogPlayLevel: PIE: World Init took: (0.004321s)
+[2022.09.20-22.20.56:749][829]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.007664s)
+[2022.09.20-22.20.56:824][829]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2022.09.20-22.20.56:828][829]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2022.09.20-22.20.56:828][829]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.20-22.20.56:828][829]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.20-22.20.56:828][829]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.20-22.20.56:828][829]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.20-22.20.56:828][829]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.20-22.20.56:828][829]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.09.20-22.20.56:829][829]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.20-22.20.56:829][829]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.20-22.20.56:829][829]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.20-22.20.56:829][829]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.20-22.20.56:829][829]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.20-22.20.56:829][829]LogAudioMixer: Display: Initializing audio mixer.
+[2022.09.20-22.20.56:841][829]LogAudioMixer: Display: 0: FrontLeft
+[2022.09.20-22.20.56:841][829]LogAudioMixer: Display: 1: FrontRight
+[2022.09.20-22.20.56:859][829]LogAudioMixer: Display: Using Audio Device HP Z24n (NVIDIA High Definition Audio)
+[2022.09.20-22.20.56:860][829]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.20-22.20.56:860][829]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.20-22.20.56:860][829]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.20-22.20.56:860][829]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.09.20-22.20.56:860][829]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.09.20-22.20.56:860][829]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.09.20-22.20.56:862][829]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.09.20-22.20.56:862][829]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.09.20-22.20.56:862][829]LogInit: FAudioDevice initialized.
+[2022.09.20-22.20.56:862][829]LogAudio: Display: Audio Device (ID: 16) registered with world 'TutorialMap'.
+[2022.09.20-22.20.56:911][829]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.20-22.20.56:911][829]LogLoad: Game class is 'GM_Tutorial_C'
+[2022.09.20-22.20.56:912][829]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2022.09.20-17.20.56
+[2022.09.20-22.20.56:913][829]LogWorld: Bringing up level for play took: 0.000765
+[2022.09.20-22.20.56:913][829]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2022.09.20-22.20.56:922][829]PIE: Server logged in
+[2022.09.20-22.20.56:924][829]PIE: Play in editor total start time 0.187 seconds.
+[2022.09.20-22.20.58:662][ 11]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.20-22.20.58:662][ 11]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.09.20-22.20.58:664][ 11]LogSlate: Window 'InfiniteMatrix Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.09.20-22.20.58:674][ 11]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2022.09.20-22.20.58:674][ 11]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.20-22.20.58:682][ 11]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.20-22.20.58:688][ 11]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.20-22.20.58:708][ 11]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.20-22.20.58:709][ 11]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.20-22.20.58:710][ 11]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.20-22.20.58:756][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2022.09.20-22.20.58:784][ 12]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2022.09.20-22.21.06:939][242]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.09.20-22.21.06:957][242]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.20-22.21.06:957][242]PIE: New page: PIE session: TutorialMap (Sep 20, 2022, 12:21:06 PM)
+[2022.09.20-22.21.06:957][242]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.09.20-22.21.06:959][242]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002675s)
+[2022.09.20-22.21.06:960][242]LogAIModule: Creating AISystem for world TutorialMap
+[2022.09.20-22.21.06:964][242]LogPlayLevel: PIE: World Init took: (0.004014s)
+[2022.09.20-22.21.06:964][242]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.006818s)
+[2022.09.20-22.21.06:986][242]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2022.09.20-22.21.06:987][242]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2022.09.20-22.21.06:987][242]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.20-22.21.06:987][242]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.20-22.21.06:987][242]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.20-22.21.06:987][242]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.20-22.21.06:987][242]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.20-22.21.06:987][242]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.09.20-22.21.06:987][242]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.20-22.21.06:987][242]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.20-22.21.06:988][242]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.20-22.21.06:988][242]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.20-22.21.06:988][242]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.20-22.21.06:988][242]LogAudioMixer: Display: Initializing audio mixer.
+[2022.09.20-22.21.07:000][242]LogAudioMixer: Display: 0: FrontLeft
+[2022.09.20-22.21.07:000][242]LogAudioMixer: Display: 1: FrontRight
+[2022.09.20-22.21.07:016][242]LogAudioMixer: Display: Using Audio Device HP Z24n (NVIDIA High Definition Audio)
+[2022.09.20-22.21.07:017][242]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.20-22.21.07:017][242]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.20-22.21.07:017][242]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.20-22.21.07:017][242]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.09.20-22.21.07:017][242]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.09.20-22.21.07:017][242]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.09.20-22.21.07:019][242]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.09.20-22.21.07:019][242]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.09.20-22.21.07:019][242]LogInit: FAudioDevice initialized.
+[2022.09.20-22.21.07:019][242]LogAudio: Display: Audio Device (ID: 17) registered with world 'TutorialMap'.
+[2022.09.20-22.21.07:054][242]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.20-22.21.07:054][242]LogLoad: Game class is 'GM_Tutorial_C'
+[2022.09.20-22.21.07:055][242]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2022.09.20-17.21.07
+[2022.09.20-22.21.07:055][242]LogWorld: Bringing up level for play took: 0.000623
+[2022.09.20-22.21.07:055][242]LogOnline: OSS: Creating online subsystem instance for: :Context_41
+[2022.09.20-22.21.07:063][242]PIE: Server logged in
+[2022.09.20-22.21.07:064][242]PIE: Play in editor total start time 0.111 seconds.
+[2022.09.20-22.21.09:393][494]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.20-22.21.09:393][494]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.09.20-22.21.09:395][494]LogSlate: Window 'InfiniteMatrix Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.09.20-22.21.09:403][494]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2022.09.20-22.21.09:404][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.20-22.21.09:410][494]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.20-22.21.09:415][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.20-22.21.09:436][494]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.20-22.21.09:436][494]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.20-22.21.09:437][494]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.20-22.21.09:444][494]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2022.09.20-22.21.09:474][495]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2022.09.20-22.21.18:166][816]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2022.09.20-22.21.18:471][816]LogSavePackage: Moving 'U:/Documents/Unreal Projects/InfiniteMatrixStarter/Saved/TutorialMap340ACEB24DC38F1AF7C74788FF1FC600.tmp' to 'U:/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap'
+[2022.09.20-22.21.18:551][816]AssetCheck: New page: Asset Save: multiple assets
+[2022.09.20-22.21.18:551][816]LogContentValidation: Display: Validating World /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap
+[2022.09.20-22.21.18:551][816]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap_BuiltData
+[2022.09.20-22.21.19:060][867]MapCheck: New page: Map Check
+[2022.09.20-22.21.19:075][867]Cmd: MAP REBUILD ALLVISIBLE
+[2022.09.20-22.21.19:075][867]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2022.09.20-22.21.19:075][867]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=false
+[2022.09.20-22.21.19:081][867]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2022.09.20-22.21.19:081][867]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2022.09.20-22.21.19:081][867]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2022.09.20-22.21.19:103][867]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.09.20-22.21.19:105][867]LightingResults: New page: Lighting Build - Sep 20, 2022, 12:21:19 PM
+[2022.09.20-22.21.19:105][867]LogStaticLightingSystem: Warning: WorldSettings.bForceNoPrecomputedLighting is true, Skipping Lighting Build!
+[2022.09.20-22.21.19:151][867]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2022.09.20-22.21.19:151][867]MapCheck: New page: TutorialMap - Sep 20, 2022, 12:21:19 PM
+[2022.09.20-22.21.19:152][867]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.36ms to complete.
+[2022.09.20-22.21.19:154][867]LogEditorBuildUtils: Build time 0:00
+[2022.09.20-22.21.19:815][897]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.09.20-22.21.20:112][897]LogSavePackage: Moving 'U:/Documents/Unreal Projects/InfiniteMatrixStarter/Saved/TutorialMap4DE1C1F143F915E8127C06BCAB6D2B57.tmp' to 'U:/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap'
+[2022.09.20-22.21.20:177][897]AssetCheck: New page: Asset Save: multiple assets
+[2022.09.20-22.21.20:177][897]LogContentValidation: Display: Validating World /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap
+[2022.09.20-22.21.20:177][897]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap_BuiltData
+[2022.09.20-22.21.23:740][124]LogEditorViewport: Clicking Background
+[2022.09.20-22.21.24:532][215]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.09.20-22.21.24:550][215]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.20-22.21.24:550][215]PIE: New page: PIE session: TutorialMap (Sep 20, 2022, 12:21:24 PM)
+[2022.09.20-22.21.24:550][215]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.09.20-22.21.24:553][215]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002705s)
+[2022.09.20-22.21.24:554][215]LogAIModule: Creating AISystem for world TutorialMap
+[2022.09.20-22.21.24:557][215]LogPlayLevel: PIE: World Init took: (0.004149s)
+[2022.09.20-22.21.24:557][215]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.006970s)
+[2022.09.20-22.21.24:580][215]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2022.09.20-22.21.24:581][215]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2022.09.20-22.21.24:581][215]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.20-22.21.24:581][215]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.20-22.21.24:581][215]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.20-22.21.24:581][215]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.20-22.21.24:581][215]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.20-22.21.24:581][215]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.09.20-22.21.24:581][215]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.20-22.21.24:581][215]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.20-22.21.24:582][215]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.20-22.21.24:582][215]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.20-22.21.24:582][215]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.20-22.21.24:582][215]LogAudioMixer: Display: Initializing audio mixer.
+[2022.09.20-22.21.24:592][215]LogAudioMixer: Display: 0: FrontLeft
+[2022.09.20-22.21.24:592][215]LogAudioMixer: Display: 1: FrontRight
+[2022.09.20-22.21.24:610][215]LogAudioMixer: Display: Using Audio Device HP Z24n (NVIDIA High Definition Audio)
+[2022.09.20-22.21.24:610][215]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.20-22.21.24:610][215]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.20-22.21.24:610][215]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.20-22.21.24:611][215]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.09.20-22.21.24:611][215]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.09.20-22.21.24:611][215]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.09.20-22.21.24:612][215]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.09.20-22.21.24:612][215]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.09.20-22.21.24:612][215]LogInit: FAudioDevice initialized.
+[2022.09.20-22.21.24:612][215]LogAudio: Display: Audio Device (ID: 18) registered with world 'TutorialMap'.
+[2022.09.20-22.21.24:668][215]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.20-22.21.24:668][215]LogLoad: Game class is 'GM_Tutorial_C'
+[2022.09.20-22.21.24:670][215]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2022.09.20-17.21.24
+[2022.09.20-22.21.24:670][215]LogWorld: Bringing up level for play took: 0.000642
+[2022.09.20-22.21.24:670][215]LogOnline: OSS: Creating online subsystem instance for: :Context_42
+[2022.09.20-22.21.24:678][215]PIE: Server logged in
+[2022.09.20-22.21.24:680][215]PIE: Play in editor total start time 0.134 seconds.
+[2022.09.20-22.21.57:269][ 37]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.09.20-22.21.57:269][ 37]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.09.20-22.21.59:101][255]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.09.20-22.21.59:101][255]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.09.20-22.22.14:884][110]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.20-22.22.14:884][110]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.09.20-22.22.14:886][110]LogSlate: Window 'InfiniteMatrix Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.09.20-22.22.14:896][110]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2022.09.20-22.22.14:897][110]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.20-22.22.14:907][110]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.20-22.22.14:912][110]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.20-22.22.14:932][110]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.20-22.22.14:933][110]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.20-22.22.14:934][110]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.20-22.22.14:942][110]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2022.09.20-22.22.14:970][111]LogPlayLevel: Display: Destroying online subsystem :Context_42
