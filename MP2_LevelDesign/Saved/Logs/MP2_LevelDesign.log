@@ -2699,3 +2699,28 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.09.22-19.43.25:850][325]LogSavePackage: Moving 'U:/Documents/Unreal Projects/MP2_LevelDesign/Saved/LearningKit_Games_Showcase0F03811C44EE2092F523CE97AB8D3377.tmp' to 'U:/Documents/Unreal Projects/MP2_LevelDesign/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap'
 [2022.09.22-19.43.25:916][325]AssetCheck: New page: Asset Save: LearningKit_Games_Showcase
 [2022.09.22-19.43.25:916][325]LogContentValidation: Display: Validating World /Game/LearningKit_Games/Maps/LearningKit_Games_Showcase.LearningKit_Games_Showcase
+[2022.09.22-19.44.09:495][600]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LearningKit_Games/Blueprints/GameFramework/BP_LearningKitGameMode.BP_LearningKitGameMode
+[2022.09.22-19.44.17:972][331]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.09.22-19.44.33:490][716]LogTexture: Display: Building textures: T_jumpBoost (OODLE_AutoDXT, 512X512)
+[2022.09.22-19.44.33:490][716]LogTexture: Display: Building textures: T_key (OODLE_AutoDXT, 512X512)
+[2022.09.22-19.45.23:217][ 67]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2022.09.22-19.45.23:237][ 67]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2022.09.22-19.45.27:482][408]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> BP_HealthBar
+[2022.09.22-19.45.27:489][408]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2022.09.22-19.45.29:879][593]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_HealthBar.BP_HealthBar
+[2022.09.22-19.45.31:681][659]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.09.22-19.45.31:681][659]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.22-19.45.32:539][714]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.09.22-19.45.32:539][714]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.22-19.45.47:647][578]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.09.22-19.45.47:647][578]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.22-19.45.47:670][578]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.09.22-19.45.47:670][578]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.22-19.45.51:205][765]LogUObjectHash: Compacting FUObjectHashTables data took   6.35ms
+[2022.09.22-19.45.52:317][765]LogSlate: Window 'Delete Assets' being destroyed
+[2022.09.22-19.45.52:418][765]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2022.09.22-19.45.59:231][166]LogSlate: Window 'BP_LearningKit_PlayerCharacter' being destroyed
+[2022.09.22-19.45.59:236][166]LogSlate: Window 'BP_LearningKit_PlayerCharacter' being destroyed
+[2022.09.22-19.45.59:244][166]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.09.22-19.45.59:244][166]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.09.22-19.45.59:244][166]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
