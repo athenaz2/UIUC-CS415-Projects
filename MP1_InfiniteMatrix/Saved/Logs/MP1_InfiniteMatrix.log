@@ -918,3 +918,89 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.09.22-19.47.55:537][  0]LogDirectoryWatcher: Display: A directory notification failed for 'U:/Documents/Unreal Projects/MP1_InfiniteMatrix/Content/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
 [2022.09.22-19.47.55:537][  0]LogDirectoryWatcher: Display: A directory notification failed, and we were unable to create a new request. GetLastError code [87] Handle [000000000000133C], Path [U:/Documents/Unreal Projects/MP1_InfiniteMatrix/Content/Collections/] 
 [2022.09.22-19.47.55:538][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.09.22-19.48.18:484][407]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.22-19.48.18:489][407]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.22-19.48.18:504][407]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.22-19.48.18:513][407]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.22-19.48.22:789][871]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.22-19.48.22:796][871]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.22-19.48.22:802][871]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.22-19.48.22:810][871]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.22-19.48.25:016][116]LogEditorViewport: Clicking on Actor (LMB): BP_TunnelSpawner_C (BP_TunnelSpawner)
+[2022.09.22-19.48.26:731][317]LogEditorViewport: Clicking Background
+[2022.09.22-19.50.53:794][392]LogSlate: Took 0.000330 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.09.22-19.50.53:822][392]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/InfiniteMatrix/UI/HUD_HealthBar.HUD_HealthBar
+[2022.09.22-19.50.54:017][392]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 126 classes and 0 folders.
+[2022.09.22-19.50.55:565][392]LogSlate: Took 0.000469 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.09.22-19.53.29:929][827]LogSlate: Took 0.000470 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.09.22-20.11.30:551][857]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2022.09.22-20.14.46:700][511]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_HealthPack.BP_HealthPack
+[2022.09.22-20.19.31:582][805]LogUObjectHash: Compacting FUObjectHashTables data took   5.42ms
+[2022.09.22-20.19.34:341][ 62]LogSlate: Window 'Asset Report' being destroyed
+[2022.09.22-20.20.25:551][ 62]LogSlate: Window 'Message' being destroyed
+[2022.09.22-20.20.25:557][ 62]Message dialog closed, result: Yes, title: Message, text: U:/Documents/Unreal Projects/MP2_LevelDesign/Content/LearningKit_Games/Assets/Props/HealthPack/ does not appear to be a game Content folder. Migrated content will only work properly if placed in a Content folder. Would you like to place your content here anyway?
+[2022.09.22-20.20.25:597][ 62]AssetTools: New page: Content migration completed successfully!
+[2022.09.22-20.20.25:597][ 62]AssetTools: /Game/InfiniteMatrix/Materials/M_HP_Albedo
+[2022.09.22-20.20.25:597][ 62]AssetTools: /Game/InfiniteMatrix/Materials/M_HP_Emissive
+[2022.09.22-20.23.48:878][961]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/InfiniteMatrix/Materials/M_HP_Albedo.M_HP_Albedo
+[2022.09.22-20.23.48:934][961]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.09.22-20.23.50:927][104]LogRenderer: Reallocating scene render targets to support 1336x1040 Format 10 NumSamples 1 (Frame:4).
+[2022.09.22-20.24.00:552][587]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/InfiniteMatrix/Materials/M_HP_Emissive.M_HP_Emissive
+[2022.09.22-20.24.00:553][587]LogMaterial: Display: Missing cached shadermap for M_HP_Emissive in PCD3D_SM5, Default, SM5 (DDC key hash: A5A3C3994A20E2E6A85F3026DCF29FF8E8FAC271), compiling. 
+[2022.09.22-20.24.00:590][587]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2022.09.22-20.24.00:721][587]LogMaterial: Display: Missing cached shadermap for M_HP_Emissive in PCD3D_SM5, Default, SM5 (DDC key hash: FCC90979AF06DE6BDA0A93D7C99261987A505FD8), compiling. 
+[2022.09.22-20.24.00:724][587]LogMaterial: Display: Missing cached shadermap for M_HP_Emissive in PCD3D_SM5, Default, SM5 (DDC key hash: E86BAF04835EDACBB3A74C60656AA0486B4CEB42), compiling. 
+[2022.09.22-20.24.00:726][587]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 1EA4EDBA424FC2695D581397306078A0F8943311), compiling. 
+[2022.09.22-20.24.00:762][587]MaterialEditorStats: Texture samplers: 0/16
+[2022.09.22-20.24.00:897][587]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.09.22-20.24.00:898][587]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.09.22-20.24.00:898][587]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.09.22-20.24.00:898][587]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.09.22-20.24.00:898][587]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.09.22-20.24.00:898][587]LogSlate: Took 0.000388 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.09.22-20.24.00:959][590]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2022.09.22-20.24.00:959][590]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2022.09.22-20.24.00:959][590]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2022.09.22-20.24.01:026][593]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.09.22-20.24.02:112][653]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2022.09.22-20.24.02:112][653]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.09.22-20.24.02:119][653]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.09.22-20.24.02:119][653]LogShaderCompilers: Display: Total job queries 22, among them cache hits 0 (0.00%)
+[2022.09.22-20.24.02:119][653]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2022.09.22-20.24.02:119][653]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.09.22-20.24.02:119][653]LogShaderCompilers: Display: ================================================
+[2022.09.22-20.24.02:501][674]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2022.09.22-20.24.02:501][674]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.09.22-20.24.02:755][688]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2022.09.22-20.24.02:755][688]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.09.22-20.24.02:914][697]MaterialEditorStats: Texture samplers: 2/16
+[2022.09.22-20.24.03:191][711]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2022.09.22-20.24.03:191][711]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.09.22-20.24.04:215][768]MaterialEditorStats: Base pass shader: 118 instructions
+[2022.09.22-20.24.04:215][768]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2022.09.22-20.24.04:215][768]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.09.22-20.24.04:215][768]MaterialEditorStats: Texture samplers: 2/16
+[2022.09.22-20.41.35:871][864]LogEditorTransaction: Undo Move Node
+[2022.09.22-20.41.35:907][864]LogMaterial: Display: Missing cached shadermap for M_HP_Emissive in PCD3D_SM5, Default, SM5 (DDC key hash: 8B01CE1E51F3CEBEFDA021C62C31E9E6341E9EC3), compiling. 
+[2022.09.22-20.41.35:916][864]MaterialEditorStats: Texture samplers: 0/16
+[2022.09.22-20.41.36:034][866]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.09.22-20.41.36:035][866]LogShaderCompilers: Display: Total job queries 33, among them cache hits 11 (33.33%)
+[2022.09.22-20.41.36:035][866]LogShaderCompilers: Display: Tracking 12 distinct input hashes that result in 9 distinct outputs (75.00%)
+[2022.09.22-20.41.36:035][866]LogShaderCompilers: Display: RAM used: 0.05 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.01%
+[2022.09.22-20.41.36:035][866]LogShaderCompilers: Display: ================================================
+[2022.09.22-20.41.36:077][867]MaterialEditorStats: Base pass shader: 118 instructions
+[2022.09.22-20.41.36:077][867]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2022.09.22-20.41.36:077][867]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.09.22-20.41.36:077][867]MaterialEditorStats: Texture samplers: 2/16
+[2022.09.22-20.42.03:019][130]LogUObjectHash: Compacting FUObjectHashTables data took   5.77ms
+[2022.09.22-20.42.03:024][130]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/InfiniteMatrix/Maps/TutorialMap' took 0.051
+[2022.09.22-20.42.03:027][130]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InfiniteMatrix/UI/HUD_HealthBar] ([4] browsable assets)...
+[2022.09.22-20.42.03:027][130]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/UI/HUD_HealthBar]
+[2022.09.22-20.42.04:559][130]LogSavePackage: Moving 'U:/Documents/Unreal Projects/MP1_InfiniteMatrix/Saved/HUD_HealthBar_Auto1832090144333EE83FA33688B2E54871B.tmp' to 'U:/Documents/Unreal Projects/MP1_InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/UI/HUD_HealthBar_Auto1.uasset'
+[2022.09.22-20.42.04:569][130]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/InfiniteMatrix/Materials/M_HP_Albedo] ([1] browsable assets)...
+[2022.09.22-20.42.04:585][130]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/InfiniteMatrix/Materials/M_HP_Albedo.M_HP_Albedo]
+[2022.09.22-20.42.04:585][130]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Materials/M_HP_Albedo]
+[2022.09.22-20.42.04:623][130]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2022.09.22-20.42.04:659][130]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.09.22-20.42.04:726][130]LogSavePackage: Moving 'U:/Documents/Unreal Projects/MP1_InfiniteMatrix/Saved/M_HP_Albedo_Auto14E5E3BF7418149040281CD97E64E168D.tmp' to 'U:/Documents/Unreal Projects/MP1_InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Materials/M_HP_Albedo_Auto1.uasset'
+[2022.09.22-20.42.04:731][130]LogFileHelpers: Auto-saving content packages took 1.707
