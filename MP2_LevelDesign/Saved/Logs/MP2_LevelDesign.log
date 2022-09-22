@@ -1959,3 +1959,89 @@ Make sure 'HUD_HealthBar' has been compiled for  Get Health
 [2022.09.22-20.56.52:872][  2]LogSavePackage: Moving 'U:/Documents/Unreal Projects/MP2_LevelDesign/Saved/HUD_HealthBarBB7D9B9F45794FA501C6B9B443A5A7B2.tmp' to 'U:/Documents/Unreal Projects/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/UI/HUD_HealthBar.uasset'
 [2022.09.22-20.56.52:915][  2]AssetCheck: New page: Asset Save: HUD_HealthBar
 [2022.09.22-20.56.52:915][  2]LogContentValidation: Display: Validating WidgetBlueprint /Game/LearningKit_Games/Blueprints/UI/HUD_HealthBar.HUD_HealthBar
+[2022.09.22-20.59.33:698][294]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FloatingIsland_L_Island6)
+[2022.09.22-20.59.44:693][318]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FloatingIsland_M2)
+[2022.09.22-20.59.57:185][441]LogEditorViewport: Clicking on Actor (LMB): NiagaraActor (VFX_MeshClouds_Base2)
+[2022.09.22-20.59.58:669][546]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SkyDomeMesh)
+[2022.09.22-20.59.59:825][638]LogEditorViewport: Clicking on Actor (LMB): NiagaraActor (VFX_MeshClouds_Base2)
+[2022.09.22-21.00.00:591][688]LogEditorViewport: Clicking on Actor (LMB): NiagaraActor (VFX_MeshClouds_Base6)
+[2022.09.22-21.00.01:576][775]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SkyDomeMesh)
+[2022.09.22-21.00.03:957][948]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FloatingIsland_S2)
+[2022.09.22-21.00.21:298][475]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FloatingIsland_S2)
+[2022.09.22-21.00.26:536][949]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FloatingIsland_M2)
+[2022.09.22-21.00.32:503][505]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FloatingIsland_L_Island6)
+[2022.09.22-21.00.32:898][529]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FloatingIsland_S6)
+[2022.09.22-21.00.34:256][648]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FloatingIsland_M2)
+[2022.09.22-21.00.40:482][218]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FloatingIsland_S2)
+[2022.09.22-21.00.45:029][653]Cmd: TRANSACTION UNDO
+[2022.09.22-21.00.45:029][653]LogEditorTransaction: Undo Move Actors
+[2022.09.22-21.00.48:871][977]LogEditorViewport: Clicking on Actor (LMB): NiagaraActor (VFX_MeshClouds_Base)
+[2022.09.22-21.00.50:339][111]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FloatingIsland_M2)
+[2022.09.22-21.00.57:644][808]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FloatingIsland_L_Island6)
+[2022.09.22-21.00.59:168][947]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FloatingIsland_S2)
+[2022.09.22-21.01.03:566][360]Cmd: TRANSACTION UNDO
+[2022.09.22-21.01.03:566][360]LogEditorTransaction: Undo Move Actors
+[2022.09.22-21.01.13:548][221]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FloatingIsland_M2)
+[2022.09.22-21.01.15:723][422]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FloatingIsland_S2)
+[2022.09.22-21.01.23:947][174]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FloatingIsland_M2)
+[2022.09.22-21.01.34:327][149]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Kit_Ramp5)
+[2022.09.22-21.01.35:446][239]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Kit_Ramp6)
+[2022.09.22-21.01.36:477][336]Cmd: EDIT COPY
+[2022.09.22-21.01.37:577][438]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Kit_Ramp5)
+[2022.09.22-21.01.37:901][465]Cmd: EDIT COPY
+[2022.09.22-21.01.41:147][769]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FloatingIsland_L_Island6)
+[2022.09.22-21.01.41:957][841]Cmd: EDIT PASTE
+[2022.09.22-21.01.43:648][  4]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FloatingIsland_L_Island6)
+[2022.09.22-21.01.44:662][100]Cmd: EDIT PASTE
+[2022.09.22-21.01.46:113][234]Cmd: TRANSACTION UNDO
+[2022.09.22-21.01.46:113][234]LogEditorTransaction: Undo Paste
+[2022.09.22-21.01.46:367][239]Cmd: TRANSACTION UNDO
+[2022.09.22-21.01.46:367][239]LogEditorTransaction: Undo Clicking on Actors
+[2022.09.22-21.01.47:333][306]Cmd: TRANSACTION UNDO
+[2022.09.22-21.01.47:333][306]LogEditorTransaction: Undo Paste
+[2022.09.22-21.01.47:814][344]Cmd: TRANSACTION UNDO
+[2022.09.22-21.01.47:815][344]LogEditorTransaction: Undo Clicking on Actors
+[2022.09.22-21.01.48:262][380]Cmd: TRANSACTION UNDO
+[2022.09.22-21.01.48:262][380]LogEditorTransaction: Undo Clicking on Actors
+[2022.09.22-21.01.48:704][417]Cmd: TRANSACTION UNDO
+[2022.09.22-21.01.48:704][417]LogEditorTransaction: Undo Clicking on Actors
+[2022.09.22-21.01.49:148][455]Cmd: TRANSACTION UNDO
+[2022.09.22-21.01.49:148][455]LogEditorTransaction: Undo Clicking on Actors
+[2022.09.22-21.01.50:161][543]Cmd: TRANSACTION UNDO
+[2022.09.22-21.01.50:161][543]LogEditorTransaction: Undo Move Actors
+[2022.09.22-21.02.06:365][844]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/LearningKit_Games/Assets/Architecture/Ramps/SM_Kit_Ramp.SM_Kit_Ramp
+[2022.09.22-21.02.08:362][938]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2022.09.22-21.02.08:362][938]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.22-21.02.14:713][414]LogActorFactory: Actor Factory created SM_Kit_Stairs_B
+[2022.09.22-21.02.15:620][489]LogActorFactory: Actor Factory created SM_Kit_Stairs_B
+[2022.09.22-21.02.20:561][927]LogUObjectHash: Compacting FUObjectHashTables data took   5.26ms
+[2022.09.22-21.02.29:357][927]LogSavePackage: Moving 'U:/Documents/Unreal Projects/MP2_LevelDesign/Saved/LearningKit_Games_Showcase68F274F04189AA207DF3289BB463DF49.tmp' to 'U:/Documents/Unreal Projects/MP2_LevelDesign/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap'
+[2022.09.22-21.02.29:420][927]AssetCheck: New page: Asset Save: LearningKit_Games_Showcase
+[2022.09.22-21.02.29:420][927]LogContentValidation: Display: Validating World /Game/LearningKit_Games/Maps/LearningKit_Games_Showcase.LearningKit_Games_Showcase
+[2022.09.22-21.02.30:347][ 10]MapCheck: New page: Map Check
+[2022.09.22-21.02.30:370][ 10]Cmd: MAP REBUILD ALLVISIBLE
+[2022.09.22-21.02.30:370][ 10]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2022.09.22-21.02.30:373][ 10]LogWorld: UWorld::CleanupWorld for LearningKit_Games_Showcase, bSessionEnded=true, bCleanupResources=false
+[2022.09.22-21.02.32:559][ 10]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2022.09.22-21.02.32:559][ 10]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2022.09.22-21.02.32:559][ 10]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2022.09.22-21.02.32:600][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2022.09.22-21.02.32:628][ 10]LogLevel: Display: Export Material TexCoord Scales took 0.026 seconds.
+[2022.09.22-21.02.32:655][ 10]TextureStreamingBuild: Display: Build Texture Streaming took 0.027 seconds.
+[2022.09.22-21.02.32:691][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.09.22-21.02.32:694][ 10]LightingResults: New page: Lighting Build - Sep 22, 2022, 11:02:32 AM
+[2022.09.22-21.02.32:694][ 10]LogStaticLightingSystem: Warning: WorldSettings.bForceNoPrecomputedLighting is true, Skipping Lighting Build!
+[2022.09.22-21.02.32:745][ 10]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2022.09.22-21.02.32:745][ 10]MapCheck: New page: LearningKit_Games_Showcase - Sep 22, 2022, 11:02:32 AM
+[2022.09.22-21.02.32:745][ 10]MapCheck: Warning: SM_Kit_Roof_Straight_17 Static mesh actor has NULL StaticMesh property 
+[2022.09.22-21.02.32:745][ 10]MapCheck: Warning: SM_Kit_Ramp8 Static mesh actor has NULL StaticMesh property 
+[2022.09.22-21.02.32:746][ 10]MapCheck: Warning: BP_HealthPack_2 Static mesh actor has NULL StaticMesh property 
+[2022.09.22-21.02.32:746][ 10]MapCheck: Map check complete: 0 Error(s), 3 Warning(s), took 1.8ms to complete.
+[2022.09.22-21.02.32:749][ 10]LogEditorBuildUtils: Build time 0:02
+[2022.09.22-21.02.42:169][823]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SkyDomeMesh)
+[2022.09.22-21.02.43:733][956]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.09.22-21.02.52:693][956]LogSavePackage: Moving 'U:/Documents/Unreal Projects/MP2_LevelDesign/Saved/LearningKit_Games_ShowcaseCC4BA2BB4235A09D153D5FA300247848.tmp' to 'U:/Documents/Unreal Projects/MP2_LevelDesign/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap'
+[2022.09.22-21.02.52:757][956]AssetCheck: New page: Asset Save: LearningKit_Games_Showcase
+[2022.09.22-21.02.52:757][956]LogContentValidation: Display: Validating World /Game/LearningKit_Games/Maps/LearningKit_Games_Showcase.LearningKit_Games_Showcase
+[2022.09.22-21.02.53:727][ 50]LogSlate: Window 'Message Log' being destroyed
+[2022.09.22-21.02.53:732][ 50]LogSlate: Window 'Message Log' being destroyed
