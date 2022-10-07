@@ -1032,3 +1032,234 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.10.07-22.22.01:028][467]LogPlayLevel: Display: Destroying online subsystem :Context_8
 [2022.10.07-22.22.04:582][771]LogSlate: Window 'Message Log' being destroyed
 [2022.10.07-22.22.04:588][771]LogSlate: Window 'Message Log' being destroyed
+[2022.10.07-22.25.56:955][887]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FloatingIsland_S28)
+[2022.10.07-22.26.00:996][159]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FloatingIsland_S28)
+[2022.10.07-22.26.01:474][196]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume3)
+[2022.10.07-22.26.12:649][ 52]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume3)
+[2022.10.07-22.26.22:857][855]Cmd: TRANSACTION UNDO
+[2022.10.07-22.26.22:857][855]LogEditorTransaction: Undo Set Scale
+[2022.10.07-22.26.33:627][634]Cmd: TRANSACTION UNDO
+[2022.10.07-22.26.33:627][634]LogEditorTransaction: Undo Set Scale
+[2022.10.07-22.26.36:058][767]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.07-22.26.36:067][767]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.07-22.26.36:067][767]PIE: New page: PIE session: LearningKit_Games_Showcase (Oct 7, 2022, 12:26:36 PM)
+[2022.10.07-22.26.36:067][767]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_LearningKit_Games_Showcase
+[2022.10.07-22.26.36:091][767]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024015s)
+[2022.10.07-22.26.36:092][767]LogAIModule: Creating AISystem for world LearningKit_Games_Showcase
+[2022.10.07-22.26.36:092][767]LogPlayLevel: PIE: World Init took: (0.001359s)
+[2022.10.07-22.26.36:093][767]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/LearningKit_Games_Showcase.LearningKit_Games_Showcase to /Game/LearningKit_Games/Maps/UEDPIE_0_LearningKit_Games_Showcase.LearningKit_Games_Showcase (0.025574s)
+[2022.10.07-22.26.36:118][767]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.10.07-22.26.36:121][767]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.10.07-22.26.36:122][767]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.07-22.26.36:122][767]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.07-22.26.36:122][767]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.07-22.26.36:122][767]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.07-22.26.36:122][767]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.07-22.26.36:122][767]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.07-22.26.36:122][767]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.07-22.26.36:122][767]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.07-22.26.36:122][767]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.07-22.26.36:122][767]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.07-22.26.36:122][767]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.07-22.26.36:122][767]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.07-22.26.36:126][767]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.07-22.26.36:126][767]LogAudioMixer: Display: 1: FrontRight
+[2022.10.07-22.26.36:206][767]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2022.10.07-22.26.36:207][767]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.07-22.26.36:207][767]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.07-22.26.36:207][767]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.07-22.26.36:207][767]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.07-22.26.36:207][767]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.07-22.26.36:207][767]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.07-22.26.36:209][767]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.07-22.26.36:209][767]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.07-22.26.36:209][767]LogInit: FAudioDevice initialized.
+[2022.10.07-22.26.36:209][767]LogAudio: Display: Audio Device (ID: 4) registered with world 'LearningKit_Games_Showcase'.
+[2022.10.07-22.26.36:218][767]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2022.10.07-22.26.36:225][767]PIE: Warning: AttachTo: '/Game/LearningKit_Games/Maps/UEDPIE_0_LearningKit_Games_Showcase.LearningKit_Games_Showcase:PersistentLevel.SM_FloatingIsland_S27_Blueprint.SM_FloatingIsland_S27_1' is not static  (in blueprint "SM_FloatingIsland_S27_Blueprint"), cannot attach '/Game/LearningKit_Games/Maps/UEDPIE_0_LearningKit_Games_Showcase.LearningKit_Games_Showcase:PersistentLevel.SM_FloatingIsland_S27_1_GEN_VARIABLE_StaticMeshActor_CAT_0.StaticMeshComponent0' which is static to it. Aborting.
+[2022.10.07-22.26.36:226][767]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_LearningKit_Games_Showcase.LearningKit_Games_Showcase up for play (max tick rate 0) at 2022.10.07-17.26.36
+[2022.10.07-22.26.38:024][767]LogWorld: Bringing up level for play took: 1.804509
+[2022.10.07-22.26.38:024][767]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2022.10.07-22.26.38:029][767]PIE: Server logged in
+[2022.10.07-22.26.38:030][767]PIE: Play in editor total start time 1.966 seconds.
+[2022.10.07-22.27.02:028][903]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.07-22.27.02:028][903]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_LearningKit_Games_Showcase
+[2022.10.07-22.27.02:029][903]LogWorld: UWorld::CleanupWorld for LearningKit_Games_Showcase, bSessionEnded=true, bCleanupResources=true
+[2022.10.07-22.27.02:030][903]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-22.27.02:042][903]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.07-22.27.02:061][903]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-22.27.02:083][903]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.07-22.27.02:084][903]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.07-22.27.02:085][903]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.07-22.27.02:093][903]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.10.07-22.27.02:217][904]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.10.07-22.27.03:811][  1]LogSlate: Window 'Message Log' being destroyed
+[2022.10.07-22.27.03:817][  1]LogSlate: Window 'Message Log' being destroyed
+[2022.10.07-22.27.29:413][402]LogEditorTransaction: Undo Add Node
+[2022.10.07-22.28.47:106][434]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Player.BP_Player
+[2022.10.07-22.29.09:552][633]LogEditorTransaction: Undo Add Node
+[2022.10.07-22.29.58:374][720]LogEditorTransaction: Undo Move Node
+[2022.10.07-22.29.59:015][741]LogEditorTransaction: Undo Add Node
+[2022.10.07-22.30.31:622][258]LogEditorTransaction: Undo Move Node
+[2022.10.07-22.30.32:434][284]LogEditorTransaction: Undo Add Node
+[2022.10.07-22.30.57:521][174]LogEditorTransaction: Undo Move Node
+[2022.10.07-22.31.02:367][585]LogEditorTransaction: Undo Create Pin Link
+[2022.10.07-22.31.33:479][184]BlueprintLog: New page: Compile BP_Bullet
+[2022.10.07-22.31.33:532][184]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2022.10.07-22.31.40:552][660]LogSlate: Took 0.000335 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.10.07-22.31.57:623][837]BlueprintLog: New page: Compile BP_Bullet
+[2022.10.07-22.31.57:671][837]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2022.10.07-22.31.58:020][865]LogSavePackage: Moving '../../../../../../Users/athenaz2/Documents/UIUC-CS415-Projects/MP2_LevelDesign/Saved/BP_BulletCA3391174554567ECAFDE9A65F5E911D.tmp' to '../../../../../../Users/athenaz2/Documents/UIUC-CS415-Projects/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/Enemies/BP_Bullet.uasset'
+[2022.10.07-22.31.58:032][865]AssetCheck: New page: Asset Save: BP_Bullet
+[2022.10.07-22.31.58:032][865]LogContentValidation: Display: Validating Blueprint /Game/LearningKit_Games/Blueprints/Enemies/BP_Bullet.BP_Bullet
+[2022.10.07-22.32.00:182][995]BlueprintLog: New page: Compile BP_Player
+[2022.10.07-22.32.00:266][995]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2022.10.07-22.32.00:696][ 14]LogSavePackage: Moving '../../../../../../Users/athenaz2/Documents/UIUC-CS415-Projects/MP2_LevelDesign/Saved/BP_Player1D0701E84CAD4E807EA101ABD4D3D2D6.tmp' to '../../../../../../Users/athenaz2/Documents/UIUC-CS415-Projects/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_Player.uasset'
+[2022.10.07-22.32.00:713][ 14]AssetCheck: New page: Asset Save: BP_Player
+[2022.10.07-22.32.00:713][ 14]LogContentValidation: Display: Validating Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Player.BP_Player
+[2022.10.07-22.32.34:885][329]BlueprintLog: New page: Compile BP_Bullet
+[2022.10.07-22.32.34:932][329]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2022.10.07-22.32.40:257][725]BlueprintLog: New page: Compile BP_Bullet
+[2022.10.07-22.32.40:306][725]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2022.10.07-22.32.45:738][ 73]BlueprintLog: New page: Compile BP_Player
+[2022.10.07-22.32.45:827][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2022.10.07-22.32.46:314][ 98]LogSavePackage: Moving '../../../../../../Users/athenaz2/Documents/UIUC-CS415-Projects/MP2_LevelDesign/Saved/BP_Player0DB5CFD1434A391167C99C9DE1E4997B.tmp' to '../../../../../../Users/athenaz2/Documents/UIUC-CS415-Projects/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_Player.uasset'
+[2022.10.07-22.32.46:326][ 98]AssetCheck: New page: Asset Save: BP_Player
+[2022.10.07-22.32.46:326][ 98]LogContentValidation: Display: Validating Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Player.BP_Player
+[2022.10.07-22.33.08:574][488]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.07-22.33.13:296][488]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.10.07-22.33.13:301][488]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.10.07-22.33.13:316][488]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.10.07-22.33.16:776][769]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Island_M
+[2022.10.07-22.33.16:780][769]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.10.07-22.33.18:495][905]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LearningKit_Games/Blueprints/Environment/BP_Island_M.BP_Island_M
+[2022.10.07-22.33.18:898][906]LogRenderer: Reallocating scene render targets to support 1616x1240 Format 10 NumSamples 1 (Frame:1).
+[2022.10.07-22.33.25:481][210]LogRenderer: Reallocating scene render targets to support 1616x1260 Format 10 NumSamples 1 (Frame:306).
+[2022.10.07-22.33.39:278][995]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LearningKit_Games/Blueprints/Environment/BP_Island_S.BP_Island_S
+[2022.10.07-22.33.51:028][634]BlueprintLog: New page: Compile BP_Island_M
+[2022.10.07-22.33.51:116][634]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2022.10.07-22.33.51:483][653]LogSavePackage: Moving '../../../../../../Users/athenaz2/Documents/UIUC-CS415-Projects/MP2_LevelDesign/Saved/BP_Island_M9C7F3F3F4DB379AE7603B7843E5A6578.tmp' to '../../../../../../Users/athenaz2/Documents/UIUC-CS415-Projects/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/Environment/BP_Island_M.uasset'
+[2022.10.07-22.33.51:503][653]AssetCheck: New page: Asset Save: BP_Island_M
+[2022.10.07-22.33.51:503][653]LogContentValidation: Display: Validating Blueprint /Game/LearningKit_Games/Blueprints/Environment/BP_Island_M.BP_Island_M
+[2022.10.07-22.33.55:675][811]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.07-22.33.55:678][811]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.10.07-22.33.56:465][811]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.10.07-22.33.56:470][811]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.10.07-22.33.56:487][811]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.10.07-22.33.59:208][  1]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Island_L
+[2022.10.07-22.33.59:212][  1]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.10.07-22.34.00:824][ 95]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LearningKit_Games/Blueprints/Environment/BP_Island_L.BP_Island_L
+[2022.10.07-22.34.32:105][773]BlueprintLog: New page: Compile BP_Island_L
+[2022.10.07-22.34.32:179][773]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2022.10.07-22.34.32:636][796]LogSavePackage: Moving '../../../../../../Users/athenaz2/Documents/UIUC-CS415-Projects/MP2_LevelDesign/Saved/BP_Island_LD98B173947EC922BDB7FE3AB03DC96CC.tmp' to '../../../../../../Users/athenaz2/Documents/UIUC-CS415-Projects/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/Environment/BP_Island_L.uasset'
+[2022.10.07-22.34.32:653][796]AssetCheck: New page: Asset Save: BP_Island_L
+[2022.10.07-22.34.32:653][796]LogContentValidation: Display: Validating Blueprint /Game/LearningKit_Games/Blueprints/Environment/BP_Island_L.BP_Island_L
+[2022.10.07-22.34.37:070][ 56]BlueprintLog: New page: Compile BP_Bullet
+[2022.10.07-22.34.37:074][ 56]LogBlueprint: Error: [AssetLog] C:\Users\athenaz2\Documents\UIUC-CS415-Projects\MP2_LevelDesign\Content\LearningKit_Games\Blueprints\Enemies\BP_Bullet.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To BP_Island_S  to imply a specific type.
+[2022.10.07-22.34.37:074][ 56]LogBlueprint: Error: [AssetLog] C:\Users\athenaz2\Documents\UIUC-CS415-Projects\MP2_LevelDesign\Content\LearningKit_Games\Blueprints\Enemies\BP_Bullet.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2022.10.07-22.34.37:137][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2022.10.07-22.34.37:568][ 76]LogSavePackage: Moving '../../../../../../Users/athenaz2/Documents/UIUC-CS415-Projects/MP2_LevelDesign/Saved/BP_Bullet2539911448B5EF468DCE378AA001D3B7.tmp' to '../../../../../../Users/athenaz2/Documents/UIUC-CS415-Projects/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/Enemies/BP_Bullet.uasset'
+[2022.10.07-22.34.37:581][ 76]AssetCheck: New page: Asset Save: BP_Bullet
+[2022.10.07-22.34.37:582][ 76]LogContentValidation: Display: Validating Blueprint /Game/LearningKit_Games/Blueprints/Enemies/BP_Bullet.BP_Bullet
+[2022.10.07-22.34.40:954][311]BlueprintLog: New page: Compile BP_Bullet
+[2022.10.07-22.34.41:020][311]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2022.10.07-22.34.41:406][330]LogSavePackage: Moving '../../../../../../Users/athenaz2/Documents/UIUC-CS415-Projects/MP2_LevelDesign/Saved/BP_BulletC4B5D96045B506FB6F303BB76410B732.tmp' to '../../../../../../Users/athenaz2/Documents/UIUC-CS415-Projects/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/Enemies/BP_Bullet.uasset'
+[2022.10.07-22.34.41:421][330]AssetCheck: New page: Asset Save: BP_Bullet
+[2022.10.07-22.34.41:421][330]LogContentValidation: Display: Validating Blueprint /Game/LearningKit_Games/Blueprints/Enemies/BP_Bullet.BP_Bullet
+[2022.10.07-22.34.56:487][175]LogEditorTransaction: Undo Add Node
+[2022.10.07-22.35.45:629][386]LogEditorTransaction: Undo Move Node
+[2022.10.07-22.35.47:942][476]LogEditorTransaction: Undo Add Node
+[2022.10.07-22.35.59:152][ 79]LogEditorTransaction: Undo Add Node
+[2022.10.07-22.37.39:304][ 35]BlueprintLog: New page: Compile BP_Bullet
+[2022.10.07-22.37.39:382][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2022.10.07-22.37.39:750][ 52]LogSavePackage: Moving '../../../../../../Users/athenaz2/Documents/UIUC-CS415-Projects/MP2_LevelDesign/Saved/BP_Bullet4E77C85241D486E71D6E7E8417A0612E.tmp' to '../../../../../../Users/athenaz2/Documents/UIUC-CS415-Projects/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/Enemies/BP_Bullet.uasset'
+[2022.10.07-22.37.39:764][ 52]AssetCheck: New page: Asset Save: BP_Bullet
+[2022.10.07-22.37.39:764][ 52]LogContentValidation: Display: Validating Blueprint /Game/LearningKit_Games/Blueprints/Enemies/BP_Bullet.BP_Bullet
+[2022.10.07-22.37.49:706][686]BlueprintLog: New page: Compile BP_Player
+[2022.10.07-22.37.49:822][686]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2022.10.07-22.37.50:328][700]LogSavePackage: Moving '../../../../../../Users/athenaz2/Documents/UIUC-CS415-Projects/MP2_LevelDesign/Saved/BP_Player469601FE42CF0B18626DF5940C75B6CC.tmp' to '../../../../../../Users/athenaz2/Documents/UIUC-CS415-Projects/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_Player.uasset'
+[2022.10.07-22.37.50:344][700]AssetCheck: New page: Asset Save: BP_Player
+[2022.10.07-22.37.50:344][700]LogContentValidation: Display: Validating Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Player.BP_Player
+[2022.10.07-22.37.53:397][842]LogSlate: Window 'BP_Island_L' being destroyed
+[2022.10.07-22.37.53:400][842]LogSlate: Window 'BP_Island_L' being destroyed
+[2022.10.07-22.37.53:404][842]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.10.07-22.37.53:404][842]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-22.37.53:462][842]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.10.07-22.37.53:462][842]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.10.07-22.37.53:462][842]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-22.37.53:539][842]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.10.07-22.37.53:539][842]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.10.07-22.37.53:539][842]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-22.37.53:596][842]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.10.07-22.37.53:596][842]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.10.07-22.37.53:596][842]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-22.37.53:652][842]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.10.07-22.37.53:652][842]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.10.07-22.37.53:652][842]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-22.37.55:744][ 47]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FloatingIsland_S20)
+[2022.10.07-22.38.01:447][636]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.07-22.38.01:450][636]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.10.07-22.38.04:402][636]LogSlate: Window 'Create Blueprint From Selection' being destroyed
+[2022.10.07-22.38.05:346][713]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FloatingIsland_S20)
+[2022.10.07-22.38.05:967][783]LogEditorViewport: Clicking on Actor (LMB): SM_FloatingIsland_S27_Blueprint_C (SM_FloatingIsland_S27_Blueprint)
+[2022.10.07-22.38.07:458][956]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FloatingIsland_S20)
+[2022.10.07-22.38.07:920][  3]LogEditorViewport: Clicking on Actor (LMB): SM_FloatingIsland_S27_Blueprint_C (SM_FloatingIsland_S27_Blueprint)
+[2022.10.07-22.38.09:171][147]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FloatingIsland_S20)
+[2022.10.07-22.38.09:718][204]LogEditorViewport: Clicking on Actor (LMB): SM_FloatingIsland_S27_Blueprint_C (SM_FloatingIsland_S27_Blueprint)
+[2022.10.07-22.38.10:159][250]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FloatingIsland_S20)
+[2022.10.07-22.38.21:536][328]LogSlate: Window 'Create Blueprint From Selection' being destroyed
+[2022.10.07-22.38.21:546][328]LogBlueprint: Warning: USimpleConstructionScript::FixupRootNodeParentReferences() - Couldn't find native parent component 'DefaultSceneRoot_GEN_VARIABLE' for 'SM_FloatingIsland_S20' in BlueprintGeneratedClass 'SM_FloatingIsland_S20_Blueprint_C' (it may have been removed)
+[2022.10.07-22.38.21:610][328]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2022.10.07-22.38.21:649][328]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LearningKit_Games/Blueprints/Environment/SM_FloatingIsland_S20_Blueprint.SM_FloatingIsland_S20_Blueprint
+[2022.10.07-22.38.23:549][425]LogSlate: Window 'SM_FloatingIsland_S20_Blueprint' being destroyed
+[2022.10.07-22.38.23:553][425]LogSlate: Window 'SM_FloatingIsland_S20_Blueprint' being destroyed
+[2022.10.07-22.38.23:556][425]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.10.07-22.38.23:556][425]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-22.38.25:197][554]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2022.10.07-22.38.25:358][554]LogSavePackage: Moving '../../../../../../Users/athenaz2/Documents/UIUC-CS415-Projects/MP2_LevelDesign/Saved/LearningKit_Games_Showcase_Auto173CDA38B460AE7C5DE45A3959828ADA0.tmp' to '../../../../../../Users/athenaz2/Documents/UIUC-CS415-Projects/MP2_LevelDesign/Saved/Autosaves/Game/LearningKit_Games/Maps/LearningKit_Games_Showcase_Auto1.umap'
+[2022.10.07-22.38.25:360][554]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LearningKit_Games/Maps/LearningKit_Games_Showcase' took 0.219
+[2022.10.07-22.38.25:360][554]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.219
+[2022.10.07-22.38.25:361][554]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/LearningKit_Games/Blueprints/Environment/SM_FloatingIsland_S20_Blueprint] ([2] browsable assets)...
+[2022.10.07-22.38.25:371][554]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/LearningKit_Games/Blueprints/Environment/SM_FloatingIsland_S20_Blueprint.SM_FloatingIsland_S20_Blueprint]
+[2022.10.07-22.38.25:371][554]OBJ SavePackage: Finished generating thumbnails for package [/Game/LearningKit_Games/Blueprints/Environment/SM_FloatingIsland_S20_Blueprint]
+[2022.10.07-22.38.25:383][554]LogSavePackage: Moving '../../../../../../Users/athenaz2/Documents/UIUC-CS415-Projects/MP2_LevelDesign/Saved/SM_FloatingIsland_S20_Blueprint_023C06DE4E3866C2928682A08F0D3644.tmp' to '../../../../../../Users/athenaz2/Documents/UIUC-CS415-Projects/MP2_LevelDesign/Saved/Autosaves/Game/LearningKit_Games/Blueprints/Environment/SM_FloatingIsland_S20_Blueprint_Auto1.uasset'
+[2022.10.07-22.38.25:384][554]LogFileHelpers: Auto-saving content packages took 0.024
+[2022.10.07-22.38.25:638][568]LogEditorViewport: Clicking on Actor (LMB): SM_FloatingIsland_S20_Blueprint_C (SM_FloatingIsland_S20_Blueprint)
+[2022.10.07-22.38.26:128][624]LogEditorViewport: Clicking on Actor (LMB): SM_FloatingIsland_S27_Blueprint_C (SM_FloatingIsland_S27_Blueprint)
+[2022.10.07-22.38.26:878][709]LogEditorViewport: Clicking on Actor (LMB): SM_FloatingIsland_S20_Blueprint_C (SM_FloatingIsland_S20_Blueprint)
+[2022.10.07-22.38.27:311][756]LogEditorViewport: Clicking on Actor (LMB): SM_FloatingIsland_S27_Blueprint_C (SM_FloatingIsland_S27_Blueprint)
+[2022.10.07-22.38.29:666][  5]LogEditorViewport: Clicking on Actor (LMB): SM_FloatingIsland_S20_Blueprint_C (SM_FloatingIsland_S20_Blueprint)
+[2022.10.07-22.38.30:868][105]MapCheck: New page: Map Check
+[2022.10.07-22.38.30:959][105]Cmd: MAP REBUILD ALLVISIBLE
+[2022.10.07-22.38.30:960][105]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2022.10.07-22.38.30:964][105]LogWorld: UWorld::CleanupWorld for LearningKit_Games_Showcase, bSessionEnded=true, bCleanupResources=false
+[2022.10.07-22.38.32:814][105]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2022.10.07-22.38.32:814][105]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2022.10.07-22.38.32:814][105]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2022.10.07-22.38.32:815][105]LogNavigationDataBuild: Display:    Building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2022.10.07-22.38.32:818][105]LogNavigationDataBuild: Display: UNavigationSystemV1::Build total execution time: 0.00s
+[2022.10.07-22.38.32:849][105]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2022.10.07-22.38.32:897][105]LogLevel: Display: Export Material TexCoord Scales took 0.042 seconds.
+[2022.10.07-22.38.32:918][105]TextureStreamingBuild: Display: Build Texture Streaming took 0.020 seconds.
+[2022.10.07-22.38.32:940][105]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2022.10.07-22.38.32:945][105]LightingResults: New page: Lighting Build - Oct 7, 2022, 12:38:32 PM
+[2022.10.07-22.38.32:945][105]LogStaticLightingSystem: Warning: WorldSettings.bForceNoPrecomputedLighting is true, Skipping Lighting Build!
+[2022.10.07-22.38.32:966][105]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2022.10.07-22.38.32:966][105]MapCheck: New page: LearningKit_Games_Showcase - Oct 7, 2022, 12:38:32 PM
+[2022.10.07-22.38.32:966][105]MapCheck: Warning: SM_Kit_Roof_Straight_17 Static mesh actor has NULL StaticMesh property 
+[2022.10.07-22.38.32:966][105]MapCheck: Warning: SM_Kit_Ramp8 Static mesh actor has NULL StaticMesh property 
+[2022.10.07-22.38.32:967][105]MapCheck: Warning: BP_HealthPack_2 Static mesh actor has NULL StaticMesh property 
+[2022.10.07-22.38.32:968][105]MapCheck: Map check complete: 0 Error(s), 3 Warning(s), took 1.6ms to complete.
+[2022.10.07-22.38.32:970][105]LogEditorBuildUtils: Build time 0:02
+[2022.10.07-22.38.34:119][140]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.10.07-22.38.34:279][140]LogSavePackage: Moving '../../../../../../Users/athenaz2/Documents/UIUC-CS415-Projects/MP2_LevelDesign/Saved/LearningKit_Games_Showcase8AB64C844FC96DF9E7C24E90AE1F36A2.tmp' to '../../../../../../Users/athenaz2/Documents/UIUC-CS415-Projects/MP2_LevelDesign/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap'
+[2022.10.07-22.38.34:321][140]AssetCheck: New page: Asset Save: LearningKit_Games_Showcase
+[2022.10.07-22.38.34:321][140]LogContentValidation: Display: Validating World /Game/LearningKit_Games/Maps/LearningKit_Games_Showcase.LearningKit_Games_Showcase
+[2022.10.07-22.38.35:382][197]LogSlate: Window 'Message Log' being destroyed
+[2022.10.07-22.38.35:401][197]LogSlate: Window 'Message Log' being destroyed
+[2022.10.07-22.38.36:576][325]LogEditorViewport: Clicking on Actor (LMB): SM_FloatingIsland_S20_Blueprint_C (SM_FloatingIsland_S20_Blueprint)
+[2022.10.07-22.38.37:327][411]LogEditorViewport: Clicking on Actor (LMB): SM_FloatingIsland_S27_Blueprint_C (SM_FloatingIsland_S27_Blueprint)
+[2022.10.07-22.38.37:797][462]LogEditorViewport: Clicking on Actor (LMB): SM_FloatingIsland_S20_Blueprint_C (SM_FloatingIsland_S20_Blueprint)
+[2022.10.07-22.38.38:239][510]LogEditorViewport: Clicking on Actor (LMB): SM_FloatingIsland_S27_Blueprint_C (SM_FloatingIsland_S27_Blueprint)
+[2022.10.07-22.38.39:662][672]LogEditorViewport: Clicking on Actor (LMB): SM_FloatingIsland_S20_Blueprint_C (SM_FloatingIsland_S20_Blueprint)
+[2022.10.07-22.38.40:070][716]LogEditorViewport: Clicking on Actor (LMB): SM_FloatingIsland_S27_Blueprint_C (SM_FloatingIsland_S27_Blueprint)
